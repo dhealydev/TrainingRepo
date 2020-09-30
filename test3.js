@@ -1,0 +1,1 @@
+Document.length.toString;
